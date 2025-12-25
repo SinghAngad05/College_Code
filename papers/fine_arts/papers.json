@@ -1,0 +1,77 @@
+{
+  "2406.14485v8": {
+    "title": "Proceedings of The second international workshop on eXplainable AI for the Arts (XAIxArts)",
+    "authors": [
+      "Nick Bryan-Kinns",
+      "Corey Ford",
+      "Shuoyang Zheng",
+      "Helen Kennedy",
+      "Alan Chamberlain",
+      "Makayla Lewis",
+      "Drew Hemment",
+      "Zijin Li",
+      "Qiong Wu",
+      "Lanxi Xiao",
+      "Gus Xia",
+      "Jeba Rezwana",
+      "Michael Clemens",
+      "Gabriel Vigliensoni"
+    ],
+    "summary": "This second international workshop on explainable AI for the Arts (XAIxArts) brought together a community of researchers in HCI, Interaction Design, AI, explainable AI (XAI), and digital arts to explore the role of XAI for the Arts. Workshop held at the 16th ACM Conference on Creativity and Cognition (C&C 2024), Chicago, USA.",
+    "pdf_url": "https://arxiv.org/pdf/2406.14485v8",
+    "published": "2024-06-20"
+  },
+  "2511.10482v1": {
+    "title": "Proceedings of The third international workshop on eXplainable AI for the Arts (XAIxArts)",
+    "authors": [
+      "Corey Ford",
+      "Elizabeth Wilson",
+      "Shuoyang Zheng",
+      "Gabriel Vigliensoni",
+      "Jeba Rezwana",
+      "Lanxi Xiao",
+      "Michael Clemens",
+      "Makayla Lewis",
+      "Drew Hemment",
+      "Alan Chamberlain",
+      "Helen Kennedy",
+      "Nick Bryan-Kinns"
+    ],
+    "summary": "This third international workshop on explainable AI for the Arts (XAIxArts) brought together a community of researchers in HCI, Interaction Design, AI, explainable AI (XAI), and digital arts to explore the role of XAI for the Arts. Workshop held at the 17th ACM Conference on Creativity and Cognition (C&C 2025), online.",
+    "pdf_url": "https://arxiv.org/pdf/2511.10482v1",
+    "published": "2025-11-13"
+  },
+  "1801.04486v6": {
+    "title": "Can Computers Create Art?",
+    "authors": [
+      "Aaron Hertzmann"
+    ],
+    "summary": "This essay discusses whether computers, using Artificial Intelligence (AI), could create art. First, the history of technologies that automated aspects of art is surveyed, including photography and animation. In each case, there were initial fears and denial of the technology, followed by a blossoming of new creative and professional opportunities for artists. The current hype and reality of Artificial Intelligence (AI) tools for art making is then discussed, together with predictions about how AI tools will be used. It is then speculated about whether it could ever happen that AI systems could be credited with authorship of artwork. It is theorized that art is something created by social agents, and so computers cannot be credited with authorship of art in our current understanding. A few ways that this could change are also hypothesized.",
+    "pdf_url": "https://arxiv.org/pdf/1801.04486v6",
+    "published": "2018-01-13"
+  },
+  "1109.0705v1": {
+    "title": "Seismic modelling of the $\u03b2\\,$Cep star HD\\,180642 (V1449\\,Aql)",
+    "authors": [
+      "C. Aerts",
+      "M. Briquet",
+      "P. Degroote",
+      "A. Thoul",
+      "T. Van Hoolst"
+    ],
+    "summary": "We present modelling of the $\u03b2\\,$Cep star HD\\,180642 based on its observational properties deduced from CoRoT and ground-based photometry as well as from time-resolved spectroscopy. We investigate whether present-day state-of-the-art models are able to explain the full seismic behaviour of this star, which has extended observational constraints for this type of pulsator. We constructed a dedicated database of stellar models and their oscillation modes tuned to fit the dominant radial mode frequency of HD\\,180642, by means of varying the hydrogen content, metallicity, mass, age, and core overshooting parameter. We compared the seismic properties of these models with those observed. We find models that are able to explain the numerous observed oscillation properties of the star, for a narrow range in mass of 11.4--11.8\\,M$_\\odot$ and no or very mild overshooting (with up to 0.05 local pressure scale heights), except for an excitation problem of the $\\ell=3$, p$_1$ mode. We deduce a rotation period of about 13\\,d, which is fully compatible with recent magnetic field measurements. The seismic models do not support the earlier claim of solar-like oscillations in the star. We instead ascribe the power excess at high frequency to non-linear resonant mode coupling between the high-amplitude radial fundamental mode and several of the low-order pressure modes. We report a discrepancy between the seismic and spectroscopic gravity at the $2.5\u03c3$ level.",
+    "pdf_url": "https://arxiv.org/pdf/1109.0705v1",
+    "published": "2011-09-04"
+  },
+  "2207.11099v2": {
+    "title": "Efficient Emission Reduction Through Dynamic Supply Mode Selection",
+    "authors": [
+      "Melvin Drent",
+      "Poulad Moradi",
+      "Joachim Arts"
+    ],
+    "summary": "We study the inbound supply mode and inventory management decision making for a company that sells an assortment of products. Stochastic demand for each product arrives periodically and unmet demand is backlogged. Each product has two distinct supply modes that may be different suppliers or different transport modes from the same supplier. These supply modes differ in terms of their carbon emissions, speed, and costs. The company needs to decide when to ship how much using which supply mode such that total holding, backlog, and procurement costs are minimized while the emissions associated with different supply modes across the assortment remains below a certain target level. Since the optimal policy for this inventory system is highly complex, we assume that shipment decisions for each product are governed by a dual-index policy. This policy dynamically prescribes shipment quantities with both supply modes based on the on-hand inventory, the backlog, and the products that are still in-transit. We formulate this decision problem as a mixed integer linear program that we solve through Dantzig-wolfe decomposition. We benchmark our decision model against two state-of-the-art approaches in a large test-bed based on real-life carbon emissions data. Relative to our decision model, the first benchmark lacks the flexibility to dynamically ship products with two supply modes while the second benchmark makes supply mode decisions for each product individually rather than holistically for the entire assortment. Our computational experiment shows that our decision model can outperform the first and second benchmark by up to 15 and 40 percent, respectively, for realistic targets for carbon emission reduction.",
+    "pdf_url": "https://arxiv.org/pdf/2207.11099v2",
+    "published": "2022-07-22"
+  }
+}
